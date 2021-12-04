@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tristan. I'm interested in many things in life, but my main focuses are information technology and philosophy. I'm presently studying web development because I believe the internet is one of the largest forces for good among Humanity. 
+I'm Tristan. I'm interested in many things in life, but my main focuses are information technology and philosophy. I'm presently studying web development because I believe the internet is one of the largest forces for good among Humanity's accomplishments. 
 
 
 
