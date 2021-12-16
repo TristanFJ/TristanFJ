@@ -1,0 +1,34 @@
+==QUESTIONS==
+
+Tell me about the first job you’ve ever had. What did you do to learn the ropes?
+My first real job was lawn care maintenance. My duty had several responsibilities such as mowing lawns, applying weed killer, clean-up such as blowing leaves. The actual skills required to perform the duties weren't very hard to pick up, but the hardest part was learning how to maintain determination. Getting up as early as we had to was hard at times, but I knew it would be harder if I slept in because it would get so hot. And after mowing several lawns it's easy to want to slow down but I learned that I could go home quicker if I kept up the same pace. I believe this kind of work ethic was important to learn when I did. 
+
+Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?
+I was the Scrum master for my five person team during a two week sprint. I'm the type of person who enjoys knowing specifically what I'm working on and how much time will be allotted, so I tried to bring that attitude to the team setting. Each morning during our standup I would be sure everyone knew what needed worked on and if anyone had any questions. I would also sometimes hold a second standup if it seemed like we needed to regroup as a team and move forward efficiently. Sometimes time boxing is a good way to manage our time, and other times we need to be more flexible to be productive. 
+
+Tell me about a time you set a goal for yourself. How did you go about ensuring that you would meet your objective?
+I had decided I wanted to work in web development before I found CodeWorks. So for a while my goal was to self-teach myself web development. I'm the type of person who loves doing research online, of many different topics, so when I gave myself this goal I just applied this same love for research to web development. I found different online courses and resources that gave me the information I needed to practice every day and work towards my goal. But CodeWorks was what I needed to really excel in my goal towards becoming a competent web developer. 
+
+Describe a time when you were the resident technical expert. What did you do to make sure everyone was able to understand you?
+During the development of one of our applications, the other members had said I was the strongest among them. This put me in a position that I hold to be very important, because I don't want to just do the work for everyone and not have them learn anything, I want to work on our application in a productive way that also helps the other members learn about what's going on. So when I would solve a problem I wouldn't just fix it and move on, I would slowly talk through what the issue was, how I discovered what was happening, and how I implemented a solution. I would stop after implementing this solution and ask if everyone understood what I did here. Sometimes they would say "No, I don't", and I would gladly go back over my mental process and what the solution was. I believe the result is that my team learned along with me, and I gained more knowledge by teaching in this manner. 
+
+Tell me about a time when you worked under close supervision or extremely loose supervision. How did you handle that?
+My time spent as a Caption Agent was definitely closely supervised. We were handling confidential information such as credit card numbers and social security numbers, and our company was funded by the government which meant that we had to be held to certain compliance standards. This meant we were being monitored without our knowledge, at times from our company and sometimes from the government, and we were also given fake calls that would be rated for our accuracy and other metrics. I handled it well, and although I didn't love it I understood the necessity. I had consistently above-average performance metrics, and while knowing I was being closely supervised made the job harder at times, it didn't change the fact that I wanted to do the job to the best of my ability. 
+
+==PITCH==
+
+
+I've been obsessed with technology ever since I could type on a keyboard. For a while I thought I wanted to go into information security or networking so I pursued that route at the College of Western Idaho, but while doing so I realized I needed a more generalized education first, so I worked to earn my Associate's Degree in Philosophy. This taught me a lot about logical analysis and communication of complex logical frameworks as well as critical reading skills. It also reminded me how important information science is for the growth of Humanity. I'm really excited about the innovative nature of technology and this excitement was reinforced in my previous position where I saw how technology can improve the lives of the disabled. As a Caption Agent, I utilized AI technology to enable the hearing disabled to communicate via telephone, something that became incredibly relevant to their well-being during the pandemic and quarantine. Seeing how critical this accessbility is for people opened my eyes once again to the importance of information technology such as the internet. This excitement led me to join a hands-on web development bootcamp where I got hundreds of hours of experience building full stack web applications with modern technologies and engineering practices. My goals are to use this experience to build applications that improve people's lives, and I believe working with your company is a great way to further this goal. 
+
+
+==PREPARATION==
+
+Have your elevator pitch practiced. Have the research on the company fresh in your mind and questions you would ask. This includes understanding the tech stack. Practice outside of CodeWorks, like LeetCode or FreeCodeCamp, open source computer science classes. Practice the STAR behavioral questions. 
+
+==WHITEBOARD==
+
+The two most recent whiteboard challenges I've done were with Jake and Mick. Mick's challenge was, given "fish" and their spawning cycle determine how many fish would spawn after 10 days. This was an interesting problem because at first it seemed easy, but then when you ramp up the amount of days you need to approach the problem in a totally different way. Something I messed up was trying to use && when I really wanted ; which was a simple and dumb mistake. The problem with Jake was to determine if a set of instructions brought Santa outside of the building he was in, and this was a cool problem because it demonstrated how there are different ways to think about the same problem but worded differently. 
+
+==QUESTIONS TO ASK==
+
+What does it take to be successful here? What's the most challenging aspect of this role? What are your biggest concerns for the team right now? How often do you promote internally? After I've mastered the basics, what opportunities for growth are there in this position? Do your employees get together outside of work hours? Asking a follow up question discussed in the interview. 
