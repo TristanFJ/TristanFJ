@@ -1,12 +1,18 @@
 ### Hi there 👋
 
-I'm Tristan. I'm interested in many things in life, but my main focuses are information technology and philosophy. I'm presently studying web development because I believe the internet is one of the largest forces for good among Humanity's accomplishments. 
+I'm Tristan. I'm interested in many things in life, but my main focuses are information technology and philosophy. I'm presently practicing software engineering because I believe software is one of the largest forces for good among Humanity's accomplishments. 
 
-
+Presently I'm learning iOS development with Swift, but most of this code is proprietary. 
 
 ### Thank you
 
-I appreciate your time, if you would like to get in touch please email me here: tfj@pm.me
+I appreciate your time, here is some of my internet activity if you'd like to stay in touch: 
+
+- Microblog: [Twitter](https://twitter.com/tristanfjohns)
+- Email: [tfj@pm.me](mailto:tfj@pm.me)
+- Notes: [Readwise.io/@tfj](https://readwise.io/@tfj)
+- Book Reviews: [booktalk.quora.com](https://booktalk.quora.com/)
+- Videos: [YouTube](https://www.youtube.com/c/TristanJohns/videos)
 
 
 
